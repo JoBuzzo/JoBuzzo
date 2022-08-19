@@ -16,7 +16,7 @@
   <img align="center" alt="Buzzo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Buzzo-springBoot" height="30" width="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
 </div>
-  
+  <br>
   
  
 <div> 
