@@ -1,5 +1,5 @@
 <h4>Olá eu sou João Lucas Buzzo!</h4>
-🔭 Estagiário Hubinova-Fema
+🔭 Estagiário HubInova-Fema
 
 <br>
 <div align="center" style="display: flex;">
