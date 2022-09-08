@@ -12,6 +12,7 @@
   <img align="center" alt="Buzzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Buzzo-php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
   <img align="center" alt="Buzzo-Laravel" height="30" width="35" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg">
+  <img align="center" alt="Buzzo-C++" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
   <img align="center" alt="Buzzo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
   <img align="center" alt="Buzzo-springBoot" height="30" width="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
 </div>
