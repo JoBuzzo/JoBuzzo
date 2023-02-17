@@ -1,27 +1,31 @@
+
 <h4>Olá eu sou João Lucas Buzzo!</h4>
 <li>🔭 Estagiário HubInova-Fema</li>
 <li>📚 Cursando Bacharelado Ciência da Computação - FEMA 2/4</li>
 
 <br>
-<div align="center" style="display: flex;">
-  <a href="https://github.com/JoBuzzo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoBuzzo&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBuzzo&layout=compact&langs_count=7&theme=nightowl"/>
+<div style="display: flex;">
+    <a href="https://github.com/JoBuzzo">
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api?username=JoBuzzo&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+        <img height="180em"
+            src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBuzzo&layout=compact&langs_count=7&theme=nightowl" />
+    </a>
 </div>
-<div style="display: inline_block" align="center"><br>
-  <img align="center" alt="Buzzo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Buzzo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Buzzo-php" height="30" width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png">
-  <img align="center" alt="Buzzo-Laravel" height="30" width="35" src="https://cdn.worldvectorlogo.com/logos/laravel-1.svg">
-  <img align="center" alt="Buzzo-C++" height="30" width="30" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png">
-  <img align="center" alt="Buzzo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="Buzzo-springBoot" height="30" width="30" src="https://seeklogo.com/images/S/spring-logo-9A2BC78AAF-seeklogo.com.png">
+<div style="display: flex; gap:5px;" align="center">
+    <img alt="Buzzo-Laravel" height="30" width="35"
+        src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
+    <img alt="Buzzo-Laravel" height="30" width="35" src="https://avatars.githubusercontent.com/u/67109815?s=280&v=4">
+    <img alt="Buzzo-Laravel" height="30" width="35" src="https://avatars.githubusercontent.com/u/51960834?s=280&v=4">
+    <img alt="Buzzo-Laravel" height="30" width="35" src="https://avatars.githubusercontent.com/u/59030169?s=280&v=4">
 </div>
-  <br>
-<div align="center"> 
-  <a href="https://instagram.com/joao.buzzo" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:joaolucas.buzzo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://linkedin.com/in/joão-lucas-buzzo-holzle-006469235" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+
+<div style="display: flex; gap:2px; " align="center">
+    <a href="https://instagram.com/joao.buzzo" target="_blank"><img
+            src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+    <a href="mailto:joaolucas.buzzo@gmail.com"><img
+            src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+    <a href="https://linkedin.com/in/joão-lucas-buzzo-holzle-006469235" target="_blank"><img
+            src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
-  
  
