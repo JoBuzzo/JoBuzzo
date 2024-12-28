@@ -1,7 +1,6 @@
 
 <h4>Olá eu sou João Lucas Buzzo!</h4>
-<li>🔭 Estagiário HubInova-Fema</li>
-<li>📚 Cursando Bacharelado Ciência da Computação - FEMA 3/4</li>
+<li>📚 Cursando Bacharelado Ciência da Computação - FEMA 4/4</li>
 
 <br>
 <div align="center">
