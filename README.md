@@ -1,12 +1,7 @@
 
 <h4>Olá eu sou João Lucas Buzzo!</h4>
-<li>📚 Cursando Bacharelado Ciência da Computação - FEMA 4/4</li>
+<li>📚 Ciência da Computação - FEMA 4/4</li>
 
-<br>
-<div align="center">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JoBuzzo&show_icons=true&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoBuzzo&layout=compact&langs_count=7&theme=nightowl" />
-</div>
 <br>
 <div style="display: flex; gap:5px;" align="center">
     <img height="30" width="35" src="https://raw.githubusercontent.com/github/explore/56a826d05cf762b2b50ecbe7d492a839b04f3fbf/topics/laravel/laravel.png">
